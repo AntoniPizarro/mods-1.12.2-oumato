@@ -32,5 +32,6 @@ xcopy mods C:\Users\%username%\AppData\Roaming\.minecraft\mods /D
 goto salir
 
 :salir
+pause
 cls
 exit
